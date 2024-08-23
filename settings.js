@@ -9,10 +9,10 @@ global.location = "Nigeria, Lagos" //ur location
 
 //new
 global.botname = 'Alya-v2' //ur bot name
-global.ownernumber = ['2348100835767'] //ur owner number, dont add more than one
-global.ownername = '🌟STAR KING' //ur owner name
+global.ownernumber = ['27747815326'] //ur owner number, dont add more than one
+global.ownername = 'katakuri' //ur owner name
 global.websitex = "https://youtube.com/@star_king0?si=Rjlqnue51sHnR6Mj"
-global.wagc = "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"
+global.wagc = "https://whatsapp.com/Channel/0029Vaf5x0eHFxP7JvSRRn1g"
 global.themeemoji = '🌸'
 global.wm = "Alya-v2."
 global.botscript = 'https://github.com/STAR-KING0/Alya-v2' //script link
